@@ -1,0 +1,15 @@
+Git commands:
+============
+To initialize a repository -->git init
+
+To see the changes(tracked/untracked files) in the repository --> git status
+
+To add a file from unstage to staging --> git add filename
+
+To remove a file from staging to unstage --> git rm --cached filename
+
+To commit from staging to tracked --> git commit -m "message"
+
+To check the log --> git log
+
+To restore a deleted file --> git restore filename
