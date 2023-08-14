@@ -1,1 +1,2 @@
 This is a cool feature.
+Added more functionality.
