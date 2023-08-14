@@ -13,3 +13,9 @@ To commit from staging to tracked --> git commit -m "message"
 To check the log --> git log
 
 To restore a deleted file --> git restore filename
+
+To see log in oneline--> git log --oneline --pretty
+
+To set user name globally --> git config --global user.name "user_name"
+
+To set user email globally --> git config --global user.email "user_email"
